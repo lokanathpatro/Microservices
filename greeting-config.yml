@@ -14,6 +14,6 @@ logging: # <----New sections below
 greeting:
   displayFortune: true
 
-quoteServiceURL: http://quote-service-dev.cfapps.io/quote    
+quoteServiceURL: http://localhost:8082/quote
 
 myName: Lokanath patro
